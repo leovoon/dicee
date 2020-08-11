@@ -32,6 +32,17 @@ img {
   width: 80%;
 }
 
+a {
+ text-decoration: none;
+ color: #e84118;
+}
+
+a:hover {
+color: #e84118;
+
+}
+
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
